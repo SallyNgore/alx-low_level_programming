@@ -11,9 +11,9 @@ int main(void)
 	char g;
 
 	for (i = 0 ; i <= 9 ; i++)
-		putchar(i);
+		putchar(i + '0');
 	for (g = 'a' ; g <= 'f' ; g++)
-		putchar(g + 'a');
+		putchar(g);
        	putchar('\n');
 	return (0);
 }	
