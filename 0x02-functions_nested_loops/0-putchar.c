@@ -2,7 +2,7 @@
 
 /**
  * main-Entry point
- * _putchar-Prints _putchar
+ * _putchar-'Prints _putchar'
  *
  * Return:Always 0
  */
