@@ -2,6 +2,7 @@
 
 /**
  * print_sign-prints the sign of a number
+ * @n: Function parameter
  *
  * Return:1 if n is positive. -1 if n is negative.
  *        0 if n is zero
